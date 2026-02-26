@@ -1,8 +1,7 @@
-opencv-contrib-python
-numpy
-xlrd
-xlwt
-xlutils
-streamlit
-Pillow
-
+streamlit==1.32.0
+opencv-contrib-python-headless==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+xlrd==1.2.0
+xlwt==1.3.0
+xlutils==2.0.0
